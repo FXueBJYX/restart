@@ -1,0 +1,43 @@
+
+.head{
+    background-color: #333;
+    height: 40px;
+}
+.head-con{
+    margin: 0 146.6px;
+}
+.con-li,.con-lir,.con-lir-car{
+    float: left;
+    color: #b0b0b0;
+    line-height: 40px;
+    margin: 0 10px;
+}
+.rul{
+    float: right;
+}
+.con-lir-car{
+    background-color: #424242;
+    width: 120px;
+    text-align: center;
+}
+
+
+
+.con-head{
+    height: 100px;
+}
+.img{
+    background: url("file:///E:/work/JavaSc/xm/image/img01.png");
+    height: 50px;
+    width: 50px;
+}
+.con-ulc{
+    margin-left: 180px;
+    line-height: 100px;
+}
+.con-lic{
+    color: #333;
+    float: left;
+    font-size: 16px;
+    margin: 0 10px;
+}
